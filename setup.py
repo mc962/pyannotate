@@ -11,7 +11,7 @@ setup(
     version='0.1.0',
     # temporarily set this to 3+ until able to test <3
     python_requires='>=3',
-    packages=['psycopg2'],
+    packages=[],
     url='https://github.com/mc962/pyannotate',
     license='MIT',
     author='michael',

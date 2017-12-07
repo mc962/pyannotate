@@ -7,12 +7,12 @@ name = "pypi"
 
 [packages]
 
-"psycopg2" = "*"
 
 
 [dev-packages]
 
 twine = "*"
+"psycopg2" = "*"
 
 
 [requires]
